@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## PicYourWord
+
+_Bring your creative side to life with this assistive website curating a complete mood board from one word_
+
 
 You can use the [editor on GitHub](https://github.com/caitline27/caitline27.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
